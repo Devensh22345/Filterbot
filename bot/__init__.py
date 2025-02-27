@@ -19,7 +19,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "6950804379:AAEos419_ptoLN0IimtWRQcLy-2M
 
 DB_URI = os.environ.get("DB_URI", "mongodb+srv://Autofilterbot:Autofilterbot@cluster0.1oipdqu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-USER_SESSION = os.environ.get("USER_SESSION", "BQF8ngYAjhmhI-nGWDc6iSiPmg1dkW1gyYv6c_RPClJGhcqy1rO7z8OTnalffD43j5c0fHxk0wlLm5UCfYkdpHL9uNKJWNHI5RT0SJVy7AHUa_H1r9wgWtx4ENDWJGDpy7bSu0bu4Gln-H5ywYSMlc9Cj8m_euHH02Aw3t2ZnNWD1mYUBpUMDBuK-bhRo4dEqQE-KjnwV7hxscteQuiQb_aukb5RJ853OkXIKoUOZv7HKRwGNO4g6ANkaz35o1Le4Bu3_cAqgBl4pjb2QUvghiw4DEcwBr5Gu7WyWeOIptXVLNtgPJSdgDb9pVKzzp1SAYSGoc4tiGhfx506dtwqdjF1nt9qtwAAAAGi62njAA")
+USER_SESSION = os.environ.get("USER_SESSION", "BQG_NJ0AFQW4cs0lQEEIuzKatDskKLN7u18X7PS-SZ5Z-iMYIVDR2B3gVqt9y8LaojaCLogGHeBURS2ddoCDH9vZ7-86352iFMBmfKhvn-vvB2NVxtQ9Pl7pDsfRneZ5ZPhCeEX9WRNdsSnIp10T3mMt9EigCYEuzs7iPsRk5p8ORjG2YDFhB717gAvX2ZbpbAEKHDvGy6ldwkezx5CtiVyK-g9e4Pq6bJnWs3HwGtZoYxxxMEehyoPrhU_CBSle9z9QtYZAaHsGSMWfwv-iM29D6LQ07648OFDaoAlDtFn0OZ0thRO7kml8jyI4OstImUwXfeqTZyU1TglUBVjOOu-rmiIL9wAAAAFVDeYoAA")
 
 VERIFY = {}
 
